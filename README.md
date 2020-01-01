@@ -45,4 +45,4 @@ The Accuracy Score is Calculated on Root Mean Squared Error
   
   
 More than **2200** people have participated and I ended up in **9th** Place, very happy to be in top 10.
-![image](/9th_rank.png)
+![](/9th_rank.PNG)
