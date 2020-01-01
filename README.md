@@ -39,10 +39,10 @@ etc.
 The Accuracy Score is Calculated on Root Mean Squared Error
 
 ##### Prizes are
-  1st Prize - $6,000
-  2nd Prize - $3,000
-  3rd Prize - $1,000
+  * 1st Prize - $6,000
+  * 2nd Prize - $3,000
+  * 3rd Prize - $1,000
   
   
 More than **2200** people have participated and I ended up in **9th** Place, very happy to be in top 10.
-
+![image](/9th_rank.png)
